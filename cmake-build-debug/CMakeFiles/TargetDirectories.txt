@@ -1,0 +1,3 @@
+C:/Users/abdullah/CLionProjects/retro-game/cmake-build-debug/CMakeFiles/retro_game.dir
+C:/Users/abdullah/CLionProjects/retro-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdullah/CLionProjects/retro-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
